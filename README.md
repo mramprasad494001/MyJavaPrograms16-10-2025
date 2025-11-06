@@ -10,5 +10,8 @@ Inheritance
 Instagram 
 (Download)[https://github.com/mramprasad494001/MyJavaPrograms16-10-2025/tree/main/Instagram]
 
+Polimorphism
+(Download)[https://github.com/mramprasad494001/MyJavaPrograms16-10-2025/tree/main/Polimorphism]
+
 calculator
 (Download)[https://github.com/mramprasad494001/MyJavaPrograms16-10-2025/tree/main/calculator]
